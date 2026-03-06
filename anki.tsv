@@ -1,100 +1,101 @@
-PT-00001	Hello (informal)	Olá	basics greeting
-PT-00002	Good morning	Bom dia	basics greeting
-PT-00003	Good afternoon	Boa tarde	basics greeting
-PT-00004	Good evening	Boa noite	basics greeting
-PT-00005	Goodbye	Adeus	basics greeting
-PT-00006	See you later	Até logo	basics greeting
-PT-00007	Please	Por favor	basics polite
-PT-00008	Thank you (male speaker)	Obrigado	basics polite
-PT-00009	Thank you (female speaker)	Obrigada	basics polite
-PT-00010	You're welcome	De nada	basics polite
-PT-00011	Yes	Sim	basics
-PT-00012	No	Não	basics
-PT-00013	Excuse me	Com licença	basics polite
-PT-00014	Sorry	Desculpa	basics polite
-PT-00015	How are you?	Como estás?	basics conversation
-PT-00016	I am fine	Estou bem	basics conversation
-PT-00017	What is your name?	Como te chamas?	basics conversation
-PT-00018	My name is...	Chamo-me...	basics conversation
-PT-00019	Nice to meet you	Prazer em conhecer-te	basics conversation
-PT-00020	Where are you from?	De onde és?	basics conversation
-PT-00021	I am from...	Sou de...	basics conversation
-PT-00022	How old are you?	Quantos anos tens?	basics conversation
-PT-00023	I am ... years old	Tenho ... anos	basics conversation
-PT-00024	Do you speak English?	Falas inglês?	basics conversation
-PT-00025	I don't understand	Não entendo	basics conversation
-PT-00026	Can you help me?	Podes ajudar-me?	basics conversation
-PT-00027	Water	Água	food
-PT-00028	Bread	Pão	food
-PT-00029	Rice	Arroz	food
-PT-00030	Chicken	Frango	food
-PT-00031	Fish	Peixe	food
-PT-00032	Meat	Carne	food
-PT-00033	Fruit	Fruta	food
-PT-00034	Vegetables	Legumes	food
-PT-00035	Coffee	Café	food
-PT-00036	Tea	Chá	food
-PT-00037	Breakfast	Pequeno-almoço	food
-PT-00038	Lunch	Almoço	food
-PT-00039	Dinner	Jantar	food
-PT-00040	House	Casa	basics
-PT-00041	Car	Carro	basics
-PT-00042	Bus	Autocarro	transport
-PT-00043	Train	Comboio	transport
-PT-00044	Airport	Aeroporto	transport
-PT-00045	School	Escola	places
-PT-00046	Hospital	Hospital	places
-PT-00047	Store	Loja	places
-PT-00048	Restaurant	Restaurante	places
-PT-00049	Bathroom	Casa de banho	places
-PT-00050	Today	Hoje	time
-PT-00051	Tomorrow	Amanhã	time
-PT-00052	Yesterday	Ontem	time
-PT-00053	Now	Agora	time
-PT-00054	Later	Mais tarde	time
-PT-00055	Morning	Manhã	time
-PT-00056	Afternoon	Tarde	time
-PT-00057	Night	Noite	time
-PT-00058	Monday	Segunda-feira	time days
-PT-00059	Tuesday	Terça-feira	time days
-PT-00060	Wednesday	Quarta-feira	time days
-PT-00061	Thursday	Quinta-feira	time days
-PT-00062	Friday	Sexta-feira	time days
-PT-00063	Saturday	Sábado	time days
-PT-00064	Sunday	Domingo	time days
-PT-00065	One	Um	numbers
-PT-00066	Two	Dois	numbers
-PT-00067	Three	Três	numbers
-PT-00068	Four	Quatro	numbers
-PT-00069	Five	Cinco	numbers
-PT-00070	Six	Seis	numbers
-PT-00071	Seven	Sete	numbers
-PT-00072	Eight	Oito	numbers
-PT-00073	Nine	Nove	numbers
-PT-00074	Ten	Dez	numbers
-PT-00075	Big	Grande	adjectives
-PT-00076	Small	Pequeno	adjectives
-PT-00077	Good	Bom	adjectives
-PT-00078	Bad	Mau	adjectives
-PT-00079	Hot	Quente	adjectives
-PT-00080	Cold	Frio	adjectives
-PT-00081	New	Novo	adjectives
-PT-00082	Old (thing)	Velho	adjectives
-PT-00083	Easy	Fácil	adjectives
-PT-00084	Difficult	Difícil	adjectives
-PT-00085	To be (permanent)	Ser	verbs
-PT-00086	To be (temporary)	Estar	verbs
-PT-00087	To have	Ter	verbs
-PT-00088	To go	Ir	verbs
-PT-00089	To eat	Comer	verbs
-PT-00090	To drink	Beber	verbs
-PT-00091	To speak	Falar	verbs
-PT-00092	To see	Ver	verbs
-PT-00093	To want	Querer	verbs
-PT-00094	To like	Gostar	verbs
-PT-00095	I like Portuguese	Gosto de português	sentences
-PT-00096	Where is the bathroom?	Onde fica a casa de banho?	sentences
-PT-00097	How much does it cost?	Quanto custa?	sentences
-PT-00098	I would like...	Eu gostaria de...	sentences
-PT-00099	What time is it?	Que horas são?	sentences
-PT-00100	I am learning Portuguese	Estou a aprender português	sentences
+ID	Front	Back	Tags
+PT-V-00001	Hello (informal)	Oi	basics greeting
+PT-V-00002	Hello (formal)	Olá	basics greeting
+PT-V-00003	Good morning	Bom dia	basics greeting
+PT-V-00004	Good afternoon	Boa tarde	basics greeting
+PT-V-00005	Good evening / Good night	Boa noite	basics greeting
+PT-V-00006	Goodbye	Tchau	basics greeting
+PT-V-00007	See you later	Até mais	basics greeting
+PT-V-00008	Please	Por favor	basics polite
+PT-V-00009	Thank you (male speaker)	Obrigado	basics polite
+PT-V-00010	Thank you (female speaker)	Obrigada	basics polite
+PT-V-00011	You're welcome	De nada	basics polite
+PT-V-00012	Excuse me	Com licença	basics polite
+PT-V-00013	Sorry	Desculpa	basics polite
+PT-V-00014	Yes	Sim	basics
+PT-V-00015	No	Não	basics
+PT-V-00016	How are you? (informal)	Como você está?	basics conversation
+PT-V-00017	I am fine	Estou bem	basics conversation
+PT-V-00018	What is your name?	Qual é o seu nome?	basics conversation
+PT-V-00019	My name is...	Meu nome é...	basics conversation
+PT-V-00020	Nice to meet you	Prazer em conhecer você	basics conversation
+PT-V-00021	Where are you from?	De onde você é?	basics conversation
+PT-V-00022	I am from...	Eu sou de...	basics conversation
+PT-V-00023	How old are you?	Quantos anos você tem?	basics conversation
+PT-V-00024	I am ... years old	Eu tenho ... anos	basics conversation
+PT-V-00025	Do you speak English?	Você fala inglês?	basics conversation
+PT-V-00026	I don't understand	Eu não entendo	basics conversation
+PT-V-00027	Can you help me?	Você pode me ajudar?	basics conversation
+PT-V-00028	Water	Água	food
+PT-V-00029	Bread	Pão	food
+PT-V-00030	Rice	Arroz	food
+PT-V-00031	Beans	Feijão	food
+PT-V-00032	Chicken	Frango	food
+PT-V-00033	Beef	Carne	food
+PT-V-00034	Fish	Peixe	food
+PT-V-00035	Fruit	Fruta	food
+PT-V-00036	Vegetables	Legumes	food
+PT-V-00037	Coffee	Café	food
+PT-V-00038	Milk	Leite	food
+PT-V-00039	Breakfast	Café da manhã	food
+PT-V-00040	Lunch	Almoço	food
+PT-V-00041	Dinner	Jantar	food
+PT-V-00042	House	Casa	basics
+PT-V-00043	Apartment	Apartamento	basics
+PT-V-00044	Car	Carro	transport
+PT-V-00045	Bus	Ônibus	transport
+PT-V-00046	Train	Trem	transport
+PT-V-00047	Airplane	Avião	transport
+PT-V-00048	Airport	Aeroporto	transport
+PT-V-00049	School	Escola	places
+PT-V-00050	Hospital	Hospital	places
+PT-V-00051	Store	Loja	places
+PT-V-00052	Restaurant	Restaurante	places
+PT-V-00053	Bathroom	Banheiro	places
+PT-V-00054	Today	Hoje	time
+PT-V-00055	Tomorrow	Amanhã	time
+PT-V-00056	Yesterday	Ontem	time
+PT-V-00057	Now	Agora	time
+PT-V-00058	Later	Mais tarde	time
+PT-V-00059	Morning	Manhã	time
+PT-V-00060	Afternoon	Tarde	time
+PT-V-00061	Night	Noite	time
+PT-V-00062	Monday	Segunda-feira	time days
+PT-V-00063	Tuesday	Terça-feira	time days
+PT-V-00064	Wednesday	Quarta-feira	time days
+PT-V-00065	Thursday	Quinta-feira	time days
+PT-V-00066	Friday	Sexta-feira	time days
+PT-V-00067	Saturday	Sábado	time days
+PT-V-00068	Sunday	Domingo	time days
+PT-V-00069	One	Um	numbers
+PT-V-00070	Two	Dois	numbers
+PT-V-00071	Three	Três	numbers
+PT-V-00072	Four	Quatro	numbers
+PT-V-00073	Five	Cinco	numbers
+PT-V-00074	Six	Seis	numbers
+PT-V-00075	Seven	Sete	numbers
+PT-V-00076	Eight	Oito	numbers
+PT-V-00077	Nine	Nove	numbers
+PT-V-00078	Ten	Dez	numbers
+PT-V-00079	Big	Grande	adjectives
+PT-V-00080	Small	Pequeno	adjectives
+PT-V-00081	Good	Bom	adjectives
+PT-V-00082	Bad	Ruim	adjectives
+PT-V-00083	Hot (temperature)	Quente	adjectives
+PT-V-00084	Cold (temperature)	Frio	adjectives
+PT-V-00085	New	Novo	adjectives
+PT-V-00086	Old (thing)	Velho	adjectives
+PT-V-00087	Easy	Fácil	adjectives
+PT-V-00088	Difficult	Difícil	adjectives
+PT-V-00089	To be (permanent)	Ser	verbs
+PT-V-00090	To be (temporary)	Estar	verbs
+PT-V-00091	To have	Ter	verbs
+PT-V-00092	To go	Ir	verbs
+PT-V-00093	To eat	Comer	verbs
+PT-V-00094	To drink	Beber	verbs
+PT-V-00095	To speak	Falar	verbs
+PT-V-00096	To see	Ver	verbs
+PT-V-00097	To want	Querer	verbs
+PT-V-00098	To like	Gostar	verbs
+PT-V-00099	I like Portuguese	Eu gosto de português	sentences
+PT-V-00100	I am learning Portuguese	Eu estou aprendendo português	sentences
